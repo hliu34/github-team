@@ -7,11 +7,9 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## Features
+## Group Members
 
-- Feature 1: Describe your main project features and functionalities.
-- Feature 2: Include a brief explanation of what makes your project unique.
-- Feature 3: Mention any key technologies or libraries your project utilizes.
+- Haoxian Liu: I learned that Github is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.  
 
 ## Getting Started
 
