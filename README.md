@@ -1,11 +1,9 @@
-<<<<<<< HEAD
 ## github-team
 
-- [Features](#features)
+- [Group Members](#group-members)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Group Members
 
@@ -15,13 +13,10 @@
 
 These instructions will help you get a copy of AwesomeApp up and running on your local machine for development and testing purposes.
 
-### Prerequisites
+### Projects
 
-List any prerequisites or dependencies that need to be installed, including versions.
+This is where we can explain our projects. 
 
-## Support
 
-If you have questions or need assistance, you can reach out to [Haoxian Liu](https://github.com/hliu34).
 
->>>>>>> edit_README
 
